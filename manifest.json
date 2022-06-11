@@ -6,7 +6,7 @@
         "version": "1.0.0"
     },
     "launch": {
-        "command": "node dist/index.js",
+        "command": "node dist/index.js $$APPID$$",
         "postinstall": ""
     }
 }
