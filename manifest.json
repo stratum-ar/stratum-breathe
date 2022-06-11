@@ -1,0 +1,12 @@
+{
+	"app": "stratum-breathe",
+    "info": {
+        "name": "Breath",
+        "author": "Team Stratum",
+        "version": "1.0.0"
+    },
+    "launch": {
+        "command": "node dist/index.js",
+        "postinstall": ""
+    }
+}
